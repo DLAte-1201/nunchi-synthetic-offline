@@ -1,0 +1,78 @@
+{
+  "provenance": "NEW_SYNTHETIC_FIXTURE_NOT_HUMAN_JUDGMENTS",
+  "config": {
+    "maxRequests": 4,
+    "ceilingUnits": 40,
+    "reserveUnits": 10
+  },
+  "requests": [
+    {
+      "id": "synthetic-request-1",
+      "input": {
+        "context": "SYNTHETIC formatting task; no social-appropriateness judgment.",
+        "messages": [
+          {
+            "role": "user",
+            "content": "SYNTHETIC: produce a simple demonstration line."
+          }
+        ]
+      },
+      "response": {
+        "status": "completed",
+        "syntheticUnits": 3,
+        "text": "SYNTHETIC comparison response A"
+      }
+    },
+    {
+      "id": "synthetic-request-2",
+      "input": {
+        "context": "SYNTHETIC formatting task; no social-appropriateness judgment.",
+        "messages": [
+          {
+            "role": "user",
+            "content": "SYNTHETIC: produce a simple demonstration line."
+          }
+        ]
+      },
+      "response": {
+        "status": "completed",
+        "syntheticUnits": 4,
+        "text": "SYNTHETIC comparison response B"
+      }
+    },
+    {
+      "id": "synthetic-request-3",
+      "input": {
+        "context": "SYNTHETIC formatting task; no social-appropriateness judgment.",
+        "messages": [
+          {
+            "role": "user",
+            "content": "SYNTHETIC: produce a simple demonstration line."
+          }
+        ]
+      },
+      "response": {
+        "status": "completed",
+        "syntheticUnits": 2,
+        "text": "SYNTHETIC comparison response C"
+      }
+    },
+    {
+      "id": "synthetic-request-4",
+      "input": {
+        "context": "SYNTHETIC formatting task; no social-appropriateness judgment.",
+        "messages": [
+          {
+            "role": "user",
+            "content": "SYNTHETIC: produce a simple demonstration line."
+          }
+        ]
+      },
+      "response": {
+        "status": "completed",
+        "syntheticUnits": 5,
+        "text": "SYNTHETIC comparison response D"
+      }
+    }
+  ]
+}

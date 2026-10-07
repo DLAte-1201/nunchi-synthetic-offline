@@ -1,0 +1,19 @@
+{
+  "name": "nunchi-synthetic-offline",
+  "version": "0.1.1",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=24.16.0"
+  },
+  "scripts": {
+    "demo": "node demo.mjs",
+    "test": "node --test test/contracts.test.mjs"
+  },
+  "dependencies": {},
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DLAte-1201/nunchi-synthetic-offline.git"
+  }
+}

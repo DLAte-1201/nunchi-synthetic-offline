@@ -1,0 +1,10 @@
+{
+  "scope": "FROZEN_MECHANICAL_SYNTHETIC_EXPECTATIONS_NOT_EVALUATOR_GOLD",
+  "expected": {
+    "requests": 4,
+    "exposure_units": 14,
+    "ratings.cards.length": 2,
+    "ratings.human_ratings_created": 0,
+    "model_calls": 0
+  }
+}

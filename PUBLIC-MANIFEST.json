@@ -1,0 +1,88 @@
+{
+  "manifest_version": 4,
+  "package_version": "0.1.1",
+  "project": "Nunchi",
+  "created_at_utc": "2026-10-06T16:30:59.281Z",
+  "scope": "LICENSED_SYNTHETIC_ONLY_POST_AUDIT_FIXES",
+  "original_reference_files_included": 0,
+  "license": "MIT",
+  "copyright_notice": "Copyright (c) 2026 서경민",
+  "target_owner": "DLAte-1201",
+  "target_repo": "nunchi-synthetic-offline",
+  "target_branch": "main",
+  "target_visibility": "USER_APPROVED_PUBLIC",
+  "publication": "NOT_RUN_WHEN_PACKAGED",
+  "self_hash": "Manifest omitted from own file list; external ZIP hash binds whole package",
+  "files": [
+    {
+      "path": ".gitignore",
+      "bytes": 56,
+      "sha256": "6d50f0137eb3a65f8a5f9c68e0b8fa2f1ff5687e583017853d1d90b03a8031e7"
+    },
+    {
+      "path": "common.mjs",
+      "bytes": 684,
+      "sha256": "5ae6f688622fb40856d5d54006ee4e01c65ca8481c08887f4222c866ca9a4be0"
+    },
+    {
+      "path": "core.mjs",
+      "bytes": 3324,
+      "sha256": "cb8457915b58f5b0c49242b7e9ec8f6c5b918c27c6f7a85b359f3b8b1fa8d680"
+    },
+    {
+      "path": "demo.mjs",
+      "bytes": 164,
+      "sha256": "822e1215d9ddcaa89d2c6970eff2ce675e272d846db10e1413f982bd311ea487"
+    },
+    {
+      "path": "fixtures/example.json",
+      "bytes": 1988,
+      "sha256": "4518482ee44e59e1921acfc3a596886bb05d0764e0017438cb96fb2a75ac0c8c"
+    },
+    {
+      "path": "fixtures/expected-summary.json",
+      "bytes": 235,
+      "sha256": "51db0e168ea507f625d9a57263a3f67b5c87cbc6db368a43d04806eb1891db57"
+    },
+    {
+      "path": "fixtures/PROVENANCE.md",
+      "bytes": 333,
+      "sha256": "e7f19345e00850907582433d53926cf50d00059af8be2c2a6dd15aab6305f931"
+    },
+    {
+      "path": "LICENSE",
+      "bytes": 1066,
+      "sha256": "b8e53d386a1f6af675fe6eb5ab3bcea110a83cebd5e6018c40744b83f1ce5218"
+    },
+    {
+      "path": "package.json",
+      "bytes": 401,
+      "sha256": "d593a5dddc6bde034c2bc2ecf59368ef4c9addaae18ac04e981dda895583f365"
+    },
+    {
+      "path": "README.md",
+      "bytes": 3251,
+      "sha256": "111fd9d5c712c78dd68284892d23461110bbf6153ce56d1162d2a2cbe045c69e"
+    },
+    {
+      "path": "RELEASE-SCOPE.json",
+      "bytes": 812,
+      "sha256": "02dbeec02abe26ca47d4226706ce44f9e9d17e2c02977ac466fcb1c59bb68e92"
+    },
+    {
+      "path": "REPRODUCTION-STATUS.json",
+      "bytes": 1001,
+      "sha256": "f7c2b37890e5fae159a94c71ecbf0075410e7a8101c8ade5889ca0c1c1bc7831"
+    },
+    {
+      "path": "RIGHTS.md",
+      "bytes": 849,
+      "sha256": "15f5a2aa3788de35cd7cf9cfe9a8caa4c15ed65f414bd89c656cbcff36c1ae7a"
+    },
+    {
+      "path": "test/contracts.test.mjs",
+      "bytes": 4330,
+      "sha256": "6ee752626120d194513d8ba4c4d87dbae1dfa56ee175491d61f6ee29127bb86e"
+    }
+  ]
+}

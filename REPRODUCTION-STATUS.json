@@ -1,0 +1,26 @@
+{
+  "scope": "SYNTHETIC_ONLY_POST_AUDIT_FIXES",
+  "package_version": "0.1.1",
+  "runtime_required": "Node.js >=24.16.0",
+  "expected_regression_test_count": 9,
+  "changed_code_staging_tests": {
+    "tests": 9,
+    "passed": 9,
+    "failed": 0
+  },
+  "unchanged_code_previous_record": null,
+  "final_distribution_zip_validation": "NOT_YET_RUN_WHEN_PACKAGED_SEE_EXTERNAL_FINAL_ZIP_VERIFICATION",
+  "original_reference_files_included": 0,
+  "original_project_reproduction": "NOT_RUN",
+  "cloud_execution": "NOT_RUN",
+  "real_api_paid_calls": "NOT_RUN",
+  "actual_clipboard_physical_hotkey": "NOT_RUN",
+  "content_secret_absence_certification": "REVIEW_REQUIRED_NOT_PERFORMED",
+  "independent_audit_of_fixed_candidate": "UNKNOWN_NOT_SUBMITTED",
+  "license": "MIT",
+  "owner": "DLAte-1201",
+  "publication": "NOT_RUN_WHEN_PACKAGED",
+  "release_decision": "USER_APPROVED_PUBLICATION_WITH_SELECTED_MIT",
+  "copyright_notice": "Copyright (c) 2026 서경민",
+  "repository_name": "nunchi-synthetic-offline"
+}

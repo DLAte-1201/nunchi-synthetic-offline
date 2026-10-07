@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "content_kind": "NEW_SYNTHETIC_NODE_MECHANICAL_EXAMPLES_ONLY",
+  "original_reference_files_included": 0,
+  "original_reference_files_excluded": 7,
+  "fixtures": "NEW_SYNTHETIC_NOT_RESEARCH_DATA_OR_EVALUATOR_GOLD",
+  "original_project_reproduction": "NOT_RUN",
+  "human_and_research_evaluation": "NOT_RUN",
+  "real_api_paid_calls": "NOT_RUN",
+  "license": "MIT",
+  "owner": "DLAte-1201",
+  "repo": "nunchi-synthetic-offline",
+  "branch": "main",
+  "visibility": "USER_APPROVED_NEW_PUBLIC_REPOSITORY",
+  "publication": "NOT_RUN_WHEN_PACKAGED",
+  "release_decision": "USER_APPROVED_PUBLICATION_WITH_SELECTED_MIT",
+  "user_deployment_intent": "REQUESTED_AFTER_AUDIT_FIXES",
+  "independent_audit_of_fixed_candidate": "UNKNOWN_NOT_SUBMITTED",
+  "copyright_notice": "Copyright (c) 2026 서경민"
+}
